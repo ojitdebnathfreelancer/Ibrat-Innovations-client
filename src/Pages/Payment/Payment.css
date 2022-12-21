@@ -1,0 +1,12 @@
+.payment input{
+    width: 100%;
+    outline: none;
+    border: 1px solid gray;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.payment input:first-of-type{
+    margin-top: 0;
+}

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "ULTRABOOST 22 SHOES",
+        "seller": "Addidas",
+        "price": "420",
+        "stock": "20",
+        "ratings": "4",
+        "ratingsCount": "3725",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+        "shipping": "1",
+        "quantity": "0"
+    },
+    {
+        "name": "TIRO TRACK PANTS",
+        "seller": "Addidas",
+        "price": "146",
+        "stock": "15",
+        "ratings": "5",
+        "ratingsCount": "3702",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/856e874762eb48da8e22acda00efaeb4_9366/Tiro_Track_Pants_Black_GN5490_21_model.jpg",
+        "shipping": "29",
+        "quantity": "0"
+    },
+    {
+        "name": "3-Stripes Backpack 2.0",
+        "seller": "Addidas",
+        "price": "74",
+        "stock": "7",
+        "ratings": "5",
+        "ratingsCount": "365",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ba79ccb861fd4fd49e3aac9f006a6407_9366/3-Stripes_Backpack_2.0_Grey_EX6735_01_standard.jpg",
+        "shipping": "23",
+        "quantity": "0"
+    },
+    {
+        "name": "OPEN HEM 3-STRIPES TRACK PANTS",
+        "seller": "Addidas",
+        "price": "58",
+        "stock": "41",
+        "ratings": "5",
+        "ratingsCount": "2140",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d47f8bc94b2c401b9eafad23007fd8c4_9366/Primegreen_Essentials_Warm-Up_Open_Hem_3-Stripes_Track_Pants_Black_H48430_21_model.jpg",
+        "shipping": "49",
+        "quantity": "0"
+    },
+    {
+        "name": "TACTICAL LEXICON ADV BOOTS",
+        "seller": "Addidas",
+        "price": "151",
+        "stock": "3",
+        "ratings": "4",
+        "ratingsCount": "584",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f5350f3d583c46038534ab6d01445e2a_9366/Tactical_Lexicon_ADV_Boots_Grey_EG9386_01_standard.jpg",
+        "shipping": "33",
+        "quantity": "0"
+    }
+]
